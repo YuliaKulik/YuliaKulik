@@ -8,7 +8,6 @@
 **You can see my projects in repositories** 
 
 ### 📫 How to reach me: yulia.o.gavrisheva@gmail.com
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuliaGavrisheva&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuliaGavrisheva&layout=compact)](https://github.com/YuliaGavrisheva/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
