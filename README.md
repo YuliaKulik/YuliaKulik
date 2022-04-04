@@ -7,7 +7,7 @@
 
 **You can see my projects in repositories** 
 
-### 📫 How to reach me: yulia.o.gavrisheva@gmail.com
+### 📫 How to reach me: yulia.o.kulik@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuliaGavrisheva&layout=compact)](https://github.com/YuliaGavrisheva/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
